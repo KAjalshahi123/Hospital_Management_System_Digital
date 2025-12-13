@@ -2,7 +2,7 @@ package com.Hospitalmanagement.Hospital.Controller;
 
 import com.Hospitalmanagement.Hospital.Service.AppointmentService;
 import com.Hospitalmanagement.Hospital.modles.Appointment;
-import com.Hospitalmanagement.Hospital.modles.Patients;
+// import com.Hospitalmanagement.Hospital.modles.Patients;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
