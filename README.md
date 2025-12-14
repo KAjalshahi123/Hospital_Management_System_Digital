@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🏥 Hospital Management System
 A full-featured Hospital Management System built using Spring Boot, Spring Data JPA, MySQL, and . It manages patients, doctors, appointments, billing, and more in a hospital environment.
 
@@ -17,3 +18,6 @@ A full-featured Hospital Management System built using Spring Boot, Spring Data 
 
 
 🌐 REST APIs: Available for integration with frontend or mobile apps.# Hospital-
+=======
+# Hospital_Management_System_Digital
+>>>>>>> 63b42cc9bdf0e5cc23dfa920af02377ea005d735
